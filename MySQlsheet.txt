@@ -1,0 +1,22 @@
+
+Show DATABASES;
+USE [DATA_BASE_NAME]
+SHOW TABLES;
+
+DESCRIBE table_name;
+SELECT * FROM table_name;
+
+DDL - Data Definition Language
+Create
+Alter
+Drop
+Show/describe 
+
+CREATE DATABASE IF NOT EXIST (SUCCESS)
+
+DML - Data Manipulation Language
+C.R.U.D
+create =Create
+Read = Show, Describe
+Update = Alter
+Delete = Delete
